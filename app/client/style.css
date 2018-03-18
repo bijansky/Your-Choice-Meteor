@@ -1,0 +1,26 @@
+.ui.borderless.middlemenu.menu {
+  background-color: black;
+  padding: 10px 50px 10px 50px;
+  margin: 0px 0px 1px 0px;
+  font-family: Geneva;
+  font-size: 16px;
+}
+
+.ui.menu .item {
+  color: white !important;
+}
+
+.footer-background {
+  background-color: black;
+  height: 200px;
+  color: #fff;
+  margin: 50px 50px 50px 50px;
+  font-family: Geneva;
+  font-size: 16px;
+  padding: 30px;
+}
+
+.ui.button {
+  color: white !important;
+  background-color: #7796a8 !important;
+}
