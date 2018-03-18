@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff93c614-6f5d-4eae-ba92-ce09a40643e2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/imports/ui/components/FooterMenu.jsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/imports/ui/components/FullWidthImage.jsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/imports/ui/components/MiddleMenu.jsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/imports/ui/pages/YourChoiceMeteor.jsx" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/client/style.css" afterPath="$PROJECT_DIR$/app/client/style.css" />
-      <change beforePath="$PROJECT_DIR$/app/imports/ui/components/Footer.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/imports/ui/components/NavBar.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/imports/ui/components/StuffItem.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/imports/ui/components/StuffItemAdmin.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/imports/ui/layouts/App.jsx" afterPath="$PROJECT_DIR$/app/imports/ui/layouts/App.jsx" />
-      <change beforePath="$PROJECT_DIR$/app/imports/ui/pages/AddStuff.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/imports/ui/pages/EditStuff.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/imports/ui/pages/Landing.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/imports/ui/pages/ListStuff.jsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/imports/ui/pages/ListStuffAdmin.jsx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/client/main.html" afterPath="$PROJECT_DIR$/app/client/main.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,14 +46,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.jsx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/imports/ui/layouts/App.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
-              <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+              <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/client/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -101,6 +94,7 @@
         <option value="$PROJECT_DIR$/app/imports/ui/components/FooterMenu.jsx" />
         <option value="$PROJECT_DIR$/app/imports/ui/pages/YourChoiceMeteor.jsx" />
         <option value="$PROJECT_DIR$/app/imports/ui/layouts/App.jsx" />
+        <option value="$PROJECT_DIR$/app/client/main.html" />
       </list>
     </option>
   </component>
@@ -117,7 +111,7 @@
     <handled-path value="$PROJECT_DIR$/app/.meteor/local/dev_bundle/server-lib/node_modules" />
     <handled-path value="$PROJECT_DIR$/app/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -279,7 +273,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="777" extended-state="1" />
+    <frame x="0" y="22" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -375,10 +369,18 @@
     <entry file="file://$PROJECT_DIR$/app/imports/ui/layouts/App.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/client/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
